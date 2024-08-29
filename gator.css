@@ -1,0 +1,13 @@
+.rectangle-green {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	margin: 0 auto;
+}
+
+.rectangle-blue {
+	width: 300px;
+	/* height: 0px; */
+	background-color: blue;
+	margin: 0 auto;
+}
